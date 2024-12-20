@@ -1,0 +1,64 @@
+
+Player 1: heuristic = 1	Player 2: heuristic = 1
+Player 1 win: 75, Player 2 win: 22, Draw: 3
+
+
+Player 1: heuristic = 1	Player 2: heuristic = 2
+Player 1 win: 69, Player 2 win: 28, Draw: 3
+
+
+Player 1: heuristic = 1	Player 2: heuristic = 3
+Player 1 win: 69, Player 2 win: 28, Draw: 3
+
+
+Player 1: heuristic = 1	Player 2: heuristic = 4
+Player 1 win: 70, Player 2 win: 27, Draw: 3
+
+
+Player 1: heuristic = 2	Player 2: heuristic = 1
+Player 1 win: 63, Player 2 win: 34, Draw: 3
+
+
+Player 1: heuristic = 2	Player 2: heuristic = 2
+Player 1 win: 58, Player 2 win: 40, Draw: 2
+
+
+Player 1: heuristic = 2	Player 2: heuristic = 3
+Player 1 win: 58, Player 2 win: 40, Draw: 2
+
+
+Player 1: heuristic = 2	Player 2: heuristic = 4
+Player 1 win: 58, Player 2 win: 42, Draw: 0
+
+
+Player 1: heuristic = 3	Player 2: heuristic = 1
+Player 1 win: 63, Player 2 win: 34, Draw: 3
+
+
+Player 1: heuristic = 3	Player 2: heuristic = 2
+Player 1 win: 58, Player 2 win: 40, Draw: 2
+
+
+Player 1: heuristic = 3	Player 2: heuristic = 3
+Player 1 win: 58, Player 2 win: 40, Draw: 2
+
+
+Player 1: heuristic = 3	Player 2: heuristic = 4
+Player 1 win: 58, Player 2 win: 42, Draw: 0
+
+
+Player 1: heuristic = 4	Player 2: heuristic = 1
+Player 1 win: 64, Player 2 win: 33, Draw: 3
+
+
+Player 1: heuristic = 4	Player 2: heuristic = 2
+Player 1 win: 60, Player 2 win: 39, Draw: 1
+
+
+Player 1: heuristic = 4	Player 2: heuristic = 3
+Player 1 win: 60, Player 2 win: 39, Draw: 1
+
+
+Player 1: heuristic = 4	Player 2: heuristic = 4
+Player 1 win: 60, Player 2 win: 40, Draw: 0
+
